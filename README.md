@@ -1,4 +1,4 @@
-# -Ecommerce-Sales-Data-Analytics-
+# Ecommerce-Sales-Data-Analytics-
 
 Sum of Quantity by category :
 Clothing had the highest Sum of Quantity at 3516, followed by Electronics at 1154 and Furniture at 945.
